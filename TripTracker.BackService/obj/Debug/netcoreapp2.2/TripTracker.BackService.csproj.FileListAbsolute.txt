@@ -1,0 +1,13 @@
+C:\Users\chandimass\source\repos\demo\TripTracker\TripTracker.BackService\bin\Debug\netcoreapp2.2\TripTracker.BackService.deps.json
+C:\Users\chandimass\source\repos\demo\TripTracker\TripTracker.BackService\bin\Debug\netcoreapp2.2\TripTracker.BackService.runtimeconfig.json
+C:\Users\chandimass\source\repos\demo\TripTracker\TripTracker.BackService\bin\Debug\netcoreapp2.2\TripTracker.BackService.runtimeconfig.dev.json
+C:\Users\chandimass\source\repos\demo\TripTracker\TripTracker.BackService\bin\Debug\netcoreapp2.2\TripTracker.BackService.dll
+C:\Users\chandimass\source\repos\demo\TripTracker\TripTracker.BackService\bin\Debug\netcoreapp2.2\TripTracker.BackService.pdb
+C:\Users\chandimass\source\repos\demo\TripTracker\TripTracker.BackService\obj\Debug\netcoreapp2.2\TripTracker.BackService.csproj.CoreCompileInputs.cache
+C:\Users\chandimass\source\repos\demo\TripTracker\TripTracker.BackService\obj\Debug\netcoreapp2.2\TripTracker.BackService.RazorAssemblyInfo.cache
+C:\Users\chandimass\source\repos\demo\TripTracker\TripTracker.BackService\obj\Debug\netcoreapp2.2\TripTracker.BackService.RazorAssemblyInfo.cs
+C:\Users\chandimass\source\repos\demo\TripTracker\TripTracker.BackService\obj\Debug\netcoreapp2.2\TripTracker.BackService.AssemblyInfoInputs.cache
+C:\Users\chandimass\source\repos\demo\TripTracker\TripTracker.BackService\obj\Debug\netcoreapp2.2\TripTracker.BackService.AssemblyInfo.cs
+C:\Users\chandimass\source\repos\demo\TripTracker\TripTracker.BackService\obj\Debug\netcoreapp2.2\TripTracker.BackService.RazorTargetAssemblyInfo.cache
+C:\Users\chandimass\source\repos\demo\TripTracker\TripTracker.BackService\obj\Debug\netcoreapp2.2\TripTracker.BackService.dll
+C:\Users\chandimass\source\repos\demo\TripTracker\TripTracker.BackService\obj\Debug\netcoreapp2.2\TripTracker.BackService.pdb
